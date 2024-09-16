@@ -2,7 +2,7 @@
 curl -o ali_profile.py https://raw.githubusercontent.com/cloudali/cloudali/main/ali_profile.py
 
 if [ ! -f ali_profile.py ]; then
-    echo "Error: ali_profile.py not found after download."
+    echo "Error: ali_profile.py not found after download. "
     exit 1
 fi
 echo "Creating Dockerfile..."

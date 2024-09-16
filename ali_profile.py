@@ -1,6 +1,4 @@
-import time
-import random
-import string
+import time, random, string
 
 def welcome():
     devopsDance_frames = [

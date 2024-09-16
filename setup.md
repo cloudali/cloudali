@@ -31,7 +31,7 @@ By following these steps, you will enter Ali's matrix and have a fully functiona
      chmod +x container_ali.sh
      ```
 
-3. **Run the Script:**
+3. **Run the Script: **
    - Execute the script from your terminal using the following command:
      ```bash
      bash container_ali.sh
